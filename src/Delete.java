@@ -5,7 +5,7 @@ public class Delete
 {
 	public static void main(String[] args)
 	{
-		File file = new File("C:\\Users\\Mayank\\Desktop\\1.txt");
+		File file = new File("C:\\Users\\Ashish\\Desktop\\1.txt");
 		
 		if(file.delete())
 		{
